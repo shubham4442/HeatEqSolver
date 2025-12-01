@@ -1,6 +1,9 @@
 #include <iostream>
 #include <vector>
 #include <cmath>
+#include <HeatSolver.hpp>
+#include <Grid.hpp>
+
 
 int main() {
     std::cout << "C++ environment OK! \n";

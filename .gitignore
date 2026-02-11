@@ -1,0 +1,31 @@
+# Build directory
+build/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.dylib
+
+# Executables
+heat_solver
+test_heat_solver
+test_grid
+example_gaussian
+
+# Output files
+*.csv
+*.dat
+*.vtk
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
